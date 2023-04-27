@@ -1,5 +1,7 @@
 # Loconotion
 
+*(I use this fork to inject custom mobile CSS automatically using Github Actions)*
+
 **Loconotion** is a Python script that parses a [Notion.so](https://notion.so) public page (alongside all of its subpages) and generates a lightweight, customizable static site.
 
 ## But Why?
